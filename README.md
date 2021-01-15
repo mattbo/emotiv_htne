@@ -3,10 +3,11 @@
 This repo is a sampling of what is possible with the EMOTIV API.
 
 You will need to install gatsby, usually done globally:
-npm install -g gatsby-cli
+`npm install -g gatsby-cli`
 
 From there, you should be able to simply do:
-gatsby develop
+`npm install`
+`gatsby develop`
 
 And then navigate to
 https://localhost:8000
