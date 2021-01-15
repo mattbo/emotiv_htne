@@ -1,0 +1,30 @@
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400');
+
+body {
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', 'Helvetica';
+  color: #747474;
+}
+
+p {
+  padding: 20px;
+}
+  
+code {
+  font-family: Consolas, "courier new";
+  background-color: #eee;
+  border: 1px solid #999;
+  padding: 2px;
+}
+
+pre code{
+  display: block;
+}
+    
+button{
+    font-size: 125%;
+    padding: 10px;
+}
